@@ -1998,7 +1998,7 @@ ss.extendObj( ss.SimpleUpload.prototype, {
         }
 
         ss.addStyles( div, {
-            'display' : 'block',
+            'display' : 'none',
             'position' : 'absolute',
             'overflow' : 'hidden',
             'margin' : 0,
